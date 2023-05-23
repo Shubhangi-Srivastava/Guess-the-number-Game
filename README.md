@@ -23,3 +23,4 @@ This is a simple number guessing game where the player tries to guess a randomly
 8. Enjoy playing the game!
 
 ## Screenshots
+<img width="1440" alt="Screen Shot 2023-05-23 at 3 03 56 PM" src="https://github.com/Shubhangi-Srivastava/Guess-the-number-Game/assets/91225776/bdd78426-157e-48eb-9fbd-fffb7eeef8f7">
